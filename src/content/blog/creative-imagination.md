@@ -8,7 +8,6 @@ heroImage: '/expression/images/creative-imagination.png'
 # L'imagination Créative ? 
 
 
-
 ## La vision
 
 ce n’est pas la facultés de voir et transformer le réel ça permet de voir ce qui est : c'est ce qu’on exerce quand on voit les choses t’elle si elle sont genre la vision la vu et la vision c’est un truc à distinguer entre la vue et la vision c’est plus ce qu’il voit le monde invisible
