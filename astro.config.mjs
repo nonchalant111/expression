@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://nonchalant111.github.io/expression',
+	site: 'https://nonchalant111.github.io',
 	base: '/expression/',
 	integrations: [mdx(), sitemap()],
 });
