@@ -1,0 +1,45 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header title={SITE_TITLE} />
+		<main>
+			<h1>👹 Hello, My Name is Non Chalant!</h1>
+			<p>
+				Je suis une artiste abstraite qui trouve la beauté dans le chaos
+				des couleurs et des formes. Mon art est le reflet de mes pensées
+				et émotions intérieures, un voyage dans le monde de l'inconnu.
+				Je crée mes peintures abstraites uniquement pour le plaisir de
+				m'exprimer.
+			</p>
+			<p>
+				Chaque coup de pinceau et chaque éclaboussure de couleur sur la
+				toile est une danse de créativité et de spontanéité. Mon travail
+				est une célébration de l'imprévisible, un aperçu des profondeurs
+				du subconscient. Sur ce site web, vous pouvez explorer une
+				galerie de mes créations abstraites, chacune racontant une
+				histoire unique. Vous y trouverez également un aperçu de mon
+				processus créatif et de l'inspiration qui sous-tend mon travail.
+				Je suis constamment à la recherche de nouvelles opportunités de
+				collaboration et de partage de ma passion pour l'art abstrait
+				avec le monde entier.
+			</p>
+			<p>
+				Si vous partagez l'amour du non conventionnel et de l'abstrait,
+				j'aimerais que nous nous rencontrions et que nous explorions
+				ensemble les possibilités illimitées de l'art.
+			</p>
+		</main>
+
+		<Footer />
+	</body>
+</html>
