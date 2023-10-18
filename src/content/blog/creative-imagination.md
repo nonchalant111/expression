@@ -2,7 +2,7 @@
 title: 'Creative imagination'
 description: "L'imagination créative pourquoi ? "
 pubDate: 'Oct 13 2023'
-heroImage: '/creative-imagination.png'
+heroImage: '/images/creative-imagination.png'
 ---
 
 # L'imagination Créative ? 
