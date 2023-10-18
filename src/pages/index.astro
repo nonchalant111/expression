@@ -1,0 +1,44 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header title={SITE_TITLE} />
+		<main>
+			<h1>👹 Hello, My Name is Non Chalant!</h1>
+			<p>
+				I'm an abstract artist who finds beauty in the chaos of colors
+				and shapes. My art is a reflection of my inner thoughts and
+				emotions, a journey into the world of the unknown.
+			</p>
+			<p>
+				I create my abstract paintings purely for the joy of
+				self-expression. Each stroke of the brush and every splash of
+				color on the canvas is a dance of creativity and spontaneity. My
+				work is a celebration of the unpredictable, a glimpse into the
+				depths of the subconscious.
+			</p>
+			<p>
+				On this website, you can explore a gallery of my abstract
+				creations, each one telling a unique story. You'll also find
+				insights into my creative process and the inspiration behind my
+				work.
+			</p>
+			<p>
+				I'm constantly seeking new opportunities to collaborate and
+				share my passion for abstract art with the world. If you share a
+				love for the unconventional and the abstract, I'd love to
+				connect and explore the limitless possibilities of art together.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
