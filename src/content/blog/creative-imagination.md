@@ -2,10 +2,9 @@
 title: 'Creative imagination'
 description: "L'imagination créative pourquoi ? "
 pubDate: 'Oct 13 2023'
-heroImage: '/expression/images/creative-imagination.png'
+heroImage: '/expression/images/tunnel.jpeg'
 ---
 
-# L'imagination Créative ? 
 
 
 ## La vision
@@ -15,3 +14,4 @@ ce n’est pas la facultés de voir et transformer le réel ça permet de voir c
 ## L’imagination
 
 c’est la faculté de voir ce qui n’est pas encore, ce qui n’est pas encore visible, ce qui n’est pas encore réel, ce qui n’est pas encore manifesté, ce qui n’est pas encore matérialisé
+
